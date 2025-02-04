@@ -25,3 +25,9 @@ Change Detection: If the new hash differs from the baseline, the tool flags the 
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/02454c69-4ca7-4c28-9c59-515a838c5c78)
+
+![Image](https://github.com/user-attachments/assets/980ab5b4-87cb-4e3f-9b84-cfa3738e9f9c)
+
+![Image](https://github.com/user-attachments/assets/e9c3a3d0-816f-4847-85c8-38d27371956f)
+
